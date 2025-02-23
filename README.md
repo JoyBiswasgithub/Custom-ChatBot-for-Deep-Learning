@@ -38,7 +38,7 @@ This project is a **custom chatbot for deep learning** built using **Streamlit, 
 ## Sample 
 
 **Interface**
-(images/document_processing.png)
+(https://github.com/JoyBiswasgithub/Custom-ChatBot-for-Deep-Learning/blob/main/sample/interface.png)
 
 
 **Thinking**
