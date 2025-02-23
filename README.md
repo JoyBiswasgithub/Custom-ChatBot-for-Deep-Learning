@@ -34,3 +34,10 @@ This project is a **custom chatbot for deep learning** built using **Streamlit, 
 - Hugging Face Transformers
 - Sentence Transformers
 - PyPDFLoader
+
+## Sample 
+
+**Interface**
+**Thinking**
+**Sample Answer**
+**If Answer Is Not Present In Database**
