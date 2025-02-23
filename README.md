@@ -38,6 +38,9 @@ This project is a **custom chatbot for deep learning** built using **Streamlit, 
 ## Sample 
 
 **Interface**
+(images/document_processing.png)
+
+
 **Thinking**
 **Sample Answer**
 **If Answer Is Not Present In Database**
