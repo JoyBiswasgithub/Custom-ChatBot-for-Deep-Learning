@@ -50,4 +50,4 @@ This project is a **custom chatbot for deep learning** built using **Streamlit, 
 2. ![Chatbot Interface](https://github.com/JoyBiswasgithub/Custom-ChatBot-for-Deep-Learning/blob/main/sample/coding.png)
 
 **If Answer Is Not Present In Database**
-![Chatbot Interface](https://github.com/JoyBiswasgithub/Custom-ChatBot-for-Deep-Learning/blob/main/sample/interface.png)
+![Chatbot Interface](https://github.com/JoyBiswasgithub/Custom-ChatBot-for-Deep-Learning/blob/main/sample/IfAnsNotPresentInDB.png)
